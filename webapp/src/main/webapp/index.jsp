@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning with Pruthvi</h1>
-    <h1>Your application is Running on Kubernetes </h1>
     <h1>This push for second deployment </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
